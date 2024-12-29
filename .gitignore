@@ -1,0 +1,13 @@
+02_Back-end/node_modules/
+03_Problem/node_modules/
+04_Solving/node_modules/
+02_Back-end/.env
+# Ignore file log
+*.log
+npm-debug.log*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
